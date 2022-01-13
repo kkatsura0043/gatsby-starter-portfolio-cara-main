@@ -1,11 +1,11 @@
 import React from "react"
 
-const BlogPage = () => {
+const Portfolio = () => {
     return (
         <div>
-            <h1>Gatsby Blog Site</h1>
+            <h1>Portfolio</h1>
         </div>
     )
 }
 
-export default BlogPage
+export default Portfolio
